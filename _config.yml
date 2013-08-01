@@ -1,0 +1,11 @@
+auto: true
+server: true
+server_port: 4000
+markdown: rdiscount
+pygments: true
+permalink: date
+libraries:
+  mood:
+    name: mood
+    version: 0.1.0
+    description: A support library for Emotional design.
