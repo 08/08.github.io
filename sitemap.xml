@@ -52,13 +52,13 @@ layout: nil
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://08.github.io/examples/network/</loc>
+    <loc>http://08.github.io/examples/objc/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://08.github.io/examples/web/</loc>
+    <loc>http://08.github.io/examples/scm/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
