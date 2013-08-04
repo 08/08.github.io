@@ -1,11 +1,13 @@
 本博客源码基于[ronin-ruby][1]
 
+相关参考资源见[Markdown][2], [syntax][3], [jekyll][4], [rdiscount][5]
+
 [1]: https://github.com/ronin-ruby/ronin-ruby.github.io
 
-[Markdown]: http://en.wikipedia.org/wiki/Markdown
+[2]: http://en.wikipedia.org/wiki/Markdown
 
-[syntax]: http://daringfireball.net/projects/markdown/basics
+[3]: http://daringfireball.net/projects/markdown/basics
 
-[jekyll]: https://github.com/mojombo/jekyll#readme
+[4]: https://github.com/mojombo/jekyll#readme
 
-[rdiscount]: https://github.com/rtomayko/rdiscount#readme
+[5]: https://github.com/rtomayko/rdiscount#readme
