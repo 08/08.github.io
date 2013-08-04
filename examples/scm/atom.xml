@@ -5,13 +5,13 @@ layout: nil
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SCMExamples</title>
+  <title>SCM Examples</title>
   <link href="http://08.github.io/examples/scm/atom.xml" rel="self" />
   <link href="http://08.github.io/examples/scm/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://08.github.io/examples/scm/</id>
   <author>
-    <name>Postmodern</name>
+    <name>Ethan</name>
     <email>test@rippletc.com</email>
   </author>
   {% for example in site.categories.scm %}
