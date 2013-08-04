@@ -11,7 +11,7 @@ layout: nil
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://08.github.io/examples/formatting/</id>
   <author>
-    <name>Postmodern</name>
+    <name>Ethan</name>
     <email>test@rippletc.com</email>
   </author>
   {% for example in site.categories.formatting %}
