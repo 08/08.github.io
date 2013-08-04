@@ -1,4 +1,4 @@
-##本博客源码基于[ronin-ruby][1]
+本博客源码基于[ronin-ruby][1]
 
 [1]: https://github.com/ronin-ruby/ronin-ruby.github.io
 [Markdown]: http://en.wikipedia.org/wiki/Markdown
