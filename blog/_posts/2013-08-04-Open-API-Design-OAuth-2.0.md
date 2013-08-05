@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Open API Design & OAuth 2.0
 author: Ethan
 ---
 
