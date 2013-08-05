@@ -1,3 +1,8 @@
+---
+layout: post
+author: Ethan
+---
+
 [OAuth-2.0][1]
 
 [OAuth Community Site][2]
