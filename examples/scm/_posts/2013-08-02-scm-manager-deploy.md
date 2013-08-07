@@ -1,6 +1,7 @@
 ---
 layout: nil
-title: scm-manager deploy
+title: "scm-manager deploy"
+published: true
 ---
 
-deploy scm-manager by jetty on debian wheey  
+deploy scm-manager by jetty on debian wheezy
