@@ -1,7 +1,18 @@
 ---
 layout: post
-title: iOS devic UI stuff
+title: iOS device UI stuff
 author: Ethan
 ---
 
-iphone ipad
+#### 像素密度(pixel Density/ppi/dpi)，分辨率(resolution), 图像尺寸
+
+  <p>&#8709; = Corner Radius </p>
+
+
+
+
+
+
+
+
+[1]: http://iconhandbook.co.uk/reference/chart/ios/
