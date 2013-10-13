@@ -8,8 +8,7 @@ author: Ethan
 
   <p>&#8709; = Corner Radius </p>
 
-
-
+[iOS Icon Reference Chart][1] 
 
 
 
