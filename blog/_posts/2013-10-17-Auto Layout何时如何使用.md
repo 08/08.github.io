@@ -14,4 +14,3 @@ Auto Layout内置于Xcode 5的Interface Builder之中， 对iOS和OS X上的app�
 - 添加约束
 - 添加控制器拖动和菜单选项约束
 - 约束和帧各自独立更新
-
