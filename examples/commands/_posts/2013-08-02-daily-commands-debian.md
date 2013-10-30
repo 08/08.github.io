@@ -27,8 +27,7 @@ daily commands on debian
 	＃ cat /proc/version 
 准备定制驱动和配置自己内核吧，呵呵。
 
-对于网卡驱动，[kernel 2.6.x Linux Driver Install Package for Yukon Devices](http://www.marvell.com/support/downloads/driverDownload.do?driverId=153&action=1), 同样是问题多多。
- 	sk98lin driver也太古老了。
+对于网卡驱动，[kernel 2.6.x Linux Driver Install Package for Yukon Devices](http://www.marvell.com/support/downloads/driverDownload.do?driverId=153&action=1), 同样是问题多多。sk98lin driver也太古老了。
 
 * [ubuntuforums](http://ubuntuforums.org/) 
 * [launchpad](https://launchpad.net)
