@@ -21,11 +21,9 @@ daily commands on debian
 首先看看显卡驱动,很多依赖文件都得装上
 	＃ sudo apt-get fglrx-driver fglrx-control fglrx-glx-ia32 fglrx-atieventsd fglrx-modules-dkms
 还有Kernel Header package和官方驱动[AMD 催化剂13.1 Linux x86 专利 显示驱动](http://www2.ati.com/drivers/legacy/amd-driver-installer-catalyst-13.1-legacy-linux-x86.x86_64.zip) ,
-注意也许要手动添加headers的链接，比如这个：/lib/modules/3.2.0-4-amd64/build/include/linux/version.h
-最后也许那些驱动装不了
-还是看看内核编译的信息
+注意也许要手动添加headers的链接，比如这个：/lib/modules/3.2.0-4-amd64/build/include/linux/version.h;最后也许那些驱动装不了,还是看看内核编译的信息
 	＃ cat /proc/version 
-准备定制驱动和配置自己内核吧，呵呵。
+准备定制驱动和配置自己编译内核吧，呵呵。
 
 对于网卡驱动，[kernel 2.6.x Linux Driver Install Package for Yukon Devices](http://www.marvell.com/support/downloads/driverDownload.do?driverId=153&action=1), 同样是问题多多。sk98lin driver也太古老了。
 
