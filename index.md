@@ -27,6 +27,9 @@ a web&mobile developer/designer
 
     $ gem install shoot_coming_soon
 
+
+<!--
+
 ## Donate
 
 * <a href= "http://www">![Alipay][alipay-png]</a>
@@ -35,6 +38,7 @@ a web&mobile developer/designer
 
 * <a href= "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=yodaof%40gmail%2ecom&lc=C2&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest">![PayPal][paypal-gif]</a>
 
+-->
 
 ## Examples
 
