@@ -35,6 +35,5 @@ daily commands on debian
 * [oldsite.debianhelp](http://oldsite.debianhelp.org/)
 * [linuxsir](http://www.linuxsir.org/)
 
-瞎折腾不是个好的学习方式，但就是折腾折腾世界就不一样了，为能折腾的同学干杯！说多了都是泪-_-^+，有木有!
 
 
