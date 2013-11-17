@@ -6,15 +6,15 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>snippet</title>
-  <link href="http://08.github.io/examples/iDev/atom.xml" rel="self" />
-  <link href="http://08.github.io/examples/iDev/" />
+  <link href="http://08.github.io/examples/snippet/atom.xml" rel="self" />
+  <link href="http://08.github.io/examples/snippet/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://08.github.io/examples/iDev/</id>
+  <id>http://08.github.io/examples/snippet/</id>
   <author>
     <name>Ethan</name>
     <email>ethan@08.github.io</email>
   </author>
-  {% for example in site.categories.iDev %}
+  {% for example in site.categories.snippet %}
   <entry>
     <title>{{ example.title }}</title>
     <link href="http://08.github.io{{ example.url }}" />
