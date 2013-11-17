@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: everything-know-about-arc－简体中文版本
 author: Ethan
 ---
