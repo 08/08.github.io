@@ -5,16 +5,16 @@ layout: nil
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SCMExamples</title>
-  <link href="http://08.github.io/examples/objc/atom.xml" rel="self" />
-  <link href="http://08.github.io/examples/objc/" />
+  <title>snippet</title>
+  <link href="http://08.github.io/examples/iDev/atom.xml" rel="self" />
+  <link href="http://08.github.io/examples/iDev/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://08.github.io/examples/objc/</id>
+  <id>http://08.github.io/examples/iDev/</id>
   <author>
     <name>Ethan</name>
-    <email>test@rippletc.com</email>
+    <email>ethan@08.github.io</email>
   </author>
-  {% for example in site.categories.objc %}
+  {% for example in site.categories.iDev %}
   <entry>
     <title>{{ example.title }}</title>
     <link href="http://08.github.io{{ example.url }}" />
