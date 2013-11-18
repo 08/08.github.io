@@ -6,6 +6,7 @@ title: iDev snippet
 
 >	#pragma mark -
 	#pragma mark Encode Chinese to ISO8859-1 in string
+
 	-(NSString *)encode2UTF8Str:(NSString *)encodeStr {
 	//  URL
 
@@ -23,8 +24,9 @@ title: iDev snippet
     	return newStr;
 	}
 
-	#pragma mark -
+>	#pragma mark -
 	#pragma mark Encode Chinese to GB2312 in URL
+	
 	-(NSString *)encode2GB2312Str:(NSString *)encodeStr {
    		CFStringRef nonAlphaNumValidChars = CFSTR("![        DISCUZ_CODE_1        ]’()*+,-./:;=?@_~");
 
