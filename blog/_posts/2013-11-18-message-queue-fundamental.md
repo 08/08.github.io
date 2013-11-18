@@ -1,5 +1,5 @@
 ---
 layout: post
-title: message queue fundamental
+title: Message Queue Fundamental
 author: Ethan
 ---

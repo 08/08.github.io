@@ -1,6 +1,6 @@
 ---
 layout: post
-title: image filter or media filter practise
+title: Image filter or Media filter Practise
 author: Ethan
 ---
 
