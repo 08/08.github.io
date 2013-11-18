@@ -18,9 +18,7 @@ title: iDev snippet
     
 		CFString    
     	NSStringEncoding enc = CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingGB_18030_2000);
-
     	NSString *newStr = [[NSString alloc] initWithBytes:(__bridge const void *)(encodeStr) length:[encodeStr length] encoding:enc];
-
     	return newStr;
 	}
 
@@ -29,10 +27,7 @@ title: iDev snippet
 	
 	-(NSString *)encode2GB2312Str:(NSString *)encodeStr {
    		CFStringRef nonAlphaNumValidChars = CFSTR("![        DISCUZ_CODE_1        ]’()*+,-./:;=?@_~");
-
     	NSString *preprocessedString = (__bridge NSString *)CFURLCreateStringByReplacingPercentEscapesUsingEncoding(kCFAllocatorDefault, (CFStringRef)encodeStr, CFSTR(""), kCFStringEncodingGB_18030_2000);
-
     	NSString *newStr = (__bridge NSString *)CFURLCreateStringByAddingPercentEscapes(kCFAllocatorDefault,(CFStringRef)preprocessedString,NULL,nonAlphaNumValidChars,kCFStringEncodingGB_18030_2000);
-
     	return newStr;
 	}
