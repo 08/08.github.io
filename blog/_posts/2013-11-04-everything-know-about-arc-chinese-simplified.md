@@ -5,3 +5,5 @@ author: Ethan
 ---
 
 [everything-know-about-arc](http://www.learn-cocos2d.com/2011/11/everything-know-about-arc/)
+
+待翻译。。。
