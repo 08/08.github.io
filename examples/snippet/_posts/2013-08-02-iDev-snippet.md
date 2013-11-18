@@ -8,12 +8,9 @@ title: iDev snippet
 	#pragma mark Encode Chinese to ISO8859-1 in string
 
 	-(NSString *)encode2UTF8Str:(NSString *)encodeStr {
-	//  URL
-
-	//    CFStringRef nonAlphaNumValidChars = CFSTR("![        DISCUZ_CODE_1        ]’()*+,-./:;=?@_~");
-
-	//    NSString *preprocessedString = (__bridge NSString *)CFURLCreateStringByReplacingPercentEscapesUsingEncoding(kCFAllocatorDefault, (CFStringRef)encodeStr, CFSTR(""), kCFStringEncodingUTF8);
-
+	//  URL  	
+	//    CFStringRef nonAlphaNumValidChars = CFSTR("![        DISCUZ_CODE_1        ]’()*+,-./:;=?@_~");  	
+	//    NSString *preprocessedString = (__bridge NSString *)CFURLCreateStringByReplacingPercentEscapesUsingEncoding(kCFAllocatorDefault, (CFStringRef)encodeStr, CFSTR(""), kCFStringEncodingUTF8);  	
 	//    NSString *newStr = (__bridge NSString *)CFURLCreateStringByAddingPercentEscapes(kCFAllocatorDefault,(CFStringRef)preprocessedString,NULL,nonAlphaNumValidChars,kCFStringEncodingUTF8);
     
 		CFString    
