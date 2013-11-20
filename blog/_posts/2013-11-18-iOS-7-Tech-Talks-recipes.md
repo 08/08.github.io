@@ -22,6 +22,7 @@ iOS 7的一些新特性及升级
   * Inter-App Audio
   * Map Kit
   * [iBeacons][iBeacons] -- Bluetooth Low Energy 
+  * NSURLSession
   * Background downloading
   * Xcode 5
   * Keychain  
