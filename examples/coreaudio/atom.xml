@@ -5,16 +5,16 @@ layout: nil
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>formatting</title>
-  <link href="http://08.github.io/examples/formatting/atom.xml" rel="self" />
-  <link href="http://08.github.io/examples/formatting/" />
+  <title>coreaudio</title>
+  <link href="http://08.github.io/examples/coreaudio/atom.xml" rel="self" />
+  <link href="http://08.github.io/examples/coreaudio/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://08.github.io/examples/formatting/</id>
+  <id>http://08.github.io/examples/coreaudio/</id>
   <author>
     <name>Ethan</name>
     <email>test@rippletc.com</email>
   </author>
-  {% for example in site.categories.formatting %}
+  {% for example in site.categories.coreaudio %}
   <entry>
     <title>{{ example.title }}</title>
     <link href="http://08.github.io{{ example.url }}" />
