@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Performance: Quartz2D vs OpenGL ES(GLKit)
+title: Performance - Quartz2D vs OpenGL ES(GLKit)
 author: Ethan
 ---
 
