@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: 实现和Roambi里面的图表的类似效果: 可旋转的PieChart
+title: 实现和Roambi里面的图表的类似效果-可旋转的PieChart
 author: Ethan
 ---
 
