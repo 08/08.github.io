@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Cocoa Bridges&amp;bindings
+title: Cocoa Bridges&amp;Bindings
 author: Ethan
 ---
