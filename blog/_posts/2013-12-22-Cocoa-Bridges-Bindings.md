@@ -24,7 +24,7 @@ author: Ethan
     	NSString *basename;
     @protected
     	NSURL *url;
-    	TiHost *host;
+    	AppCoreHost *host;
     }
     
     -(id)initWithHost:(TiHost*)host;
