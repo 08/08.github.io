@@ -27,7 +27,7 @@ author: Ethan
     	AppCoreHost *host;
     }
     
-    -(id)initWithHost:(TiHost*)host;
+    -(id)initWithHost:(AppCoreHost*)host;
     
     -(void)boot:(id)callback url:(NSURL*)url preload:(NSDictionary*)preload;
     
