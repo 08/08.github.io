@@ -9,9 +9,9 @@ js:
  - examples.js
 ---
 
-# Ethan
+# 08
 
-a web&mobile developer/designer
+
 
 <!--
 
