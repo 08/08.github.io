@@ -5,7 +5,7 @@ layout: nil
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ethan's Developer Blog</title>
+  <title>08's Developer Blog</title>
   <icon>http://08.github.io/images/favicon.ico</icon>
   <logo>http://08.github.io/images/logo.png</logo>
   <link type="application/atom+xml" href="http://08.github.io/blog/atom.xml" rel="self" />
