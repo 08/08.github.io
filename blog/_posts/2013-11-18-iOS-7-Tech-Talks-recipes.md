@@ -48,4 +48,4 @@ iOS 7的一些新特性及升级
 	* 
 
 [1]: https://developer.apple.com/tech-talks/cn/
-[iBeacons]: https://github.com/08/iBeaconsTutorial.git
+[iBeacons]: https://github.com/iBeacons/iBeaconsTutorial.git
