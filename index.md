@@ -9,8 +9,8 @@ js:
  - examples.js
 ---
 # What We Focus on? 
-*  wireless communication and mobile computing 
-*  beacon technology solutions 
+*  Wireless Communication and Mobile Computing 
+*  Beacon Technology Solutions 
 *  Smart Surroundings
 
 
