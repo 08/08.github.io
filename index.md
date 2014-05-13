@@ -8,8 +8,10 @@ js:
  - jquery.min.js
  - examples.js
 ---
-
-# 专注于Beacon技术和Beacon软硬件周边
+# What We Focus on? 
+*  wireless communication and mobile computing 
+*  beacon technology solutions 
+*  Smart Surroundings
 
 
 
