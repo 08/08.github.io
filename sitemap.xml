@@ -18,21 +18,27 @@ layout: nil
   <url>
     <loc>http://iBeacons.github.io/design.html</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://iBeacons.github.io/ibeacon/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://iBeacons.github.io/idev/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>http://iBeacons.github.io/downloads/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+    <priority>0.5</priority>
+  </url> 
   <url>
     <loc>http://iBeacons.github.io/examples/</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
