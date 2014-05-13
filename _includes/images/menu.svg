@@ -107,7 +107,7 @@
     </a>
     <a
        id="a3818"
-       xlink:href="/faq/"
+       xlink:href="/design/"
        transform="matrix(0.61188799,0,0,0.61188799,121.87567,210.24086)">
       <text
          sodipodi:linespacing="125%"
@@ -119,12 +119,12 @@
            y="531.36218"
            x="323.07227"
            id="tspan3786"
-           sodipodi:role="line">faq</tspan></text>
+           sodipodi:role="line">Design</tspan></text>
     </a>
     <a
        id="a3822"
        transform="matrix(0.61188799,0,0,0.61188799,164.40015,210.24086)"
-       xlink:href="/docs/">
+       xlink:href="/ibeacon/">s
       <text
          sodipodi:linespacing="125%"
          id="text3788"
@@ -135,7 +135,7 @@
            y="531.36218"
            x="446.53906"
            id="tspan3790"
-           sodipodi:role="line">docs</tspan></text>
+           sodipodi:role="line">iBeacon</tspan></text>
     </a>
     <a
        id="a3826"

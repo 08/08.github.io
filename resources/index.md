@@ -1,5 +1,5 @@
 ---
 layout: redirect
 title: Resources
-redirect: /docs/
+redirect: /downloads/
 ---

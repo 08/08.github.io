@@ -16,13 +16,13 @@ layout: nil
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>http://iBeacons.github.io/faq.html</loc>
+    <loc>http://iBeacons.github.io/design.html</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://iBeacons.github.io/docs/</loc>
+    <loc>http://iBeacons.github.io/ibeacon/</loc>
     <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>

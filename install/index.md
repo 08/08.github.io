@@ -1,5 +1,5 @@
 ---
 layout: redirect
 title: Install
-redirect: /docs/
+redirect: /downloads/
 ---
