@@ -5,7 +5,7 @@ layout: nil
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>iBeacon issues/title>
+  <title>iBeacon issues</title>
   <icon>http://iBeacons.github.io/images/favicon.ico</icon>
   <logo>http://iBeacons.github.io/images/logo.png</logo>
   <link type="application/atom+xml" href="http://iBeacons.github.io/ibeacon/atom.xml" rel="self" />

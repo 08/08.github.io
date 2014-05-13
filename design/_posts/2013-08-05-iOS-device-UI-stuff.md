@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_design
 title: iOS device UI stuff
 author: Ethan
 ---

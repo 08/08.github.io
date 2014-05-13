@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_ibeacon
 title: Zeroing Weak References in Objective-C
 author: Ethan
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_ibeacon
 title: iOS device UI stuff
 author: Ethan
 ---
