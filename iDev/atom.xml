@@ -8,11 +8,11 @@ layout: nil
   <title>iDev issues</title>
   <icon>http://iBeacons.github.io/images/favicon.ico</icon>
   <logo>http://iBeacons.github.io/images/logo.png</logo>
-  <link type="application/atom+xml" href="http://iBeacons.github.io/iDev/atom.xml" rel="self" />
+  <link type="application/atom+xml" href="http://iBeacons.github.io/idev/atom.xml" rel="self" />
   <link type="text/html" href="http://iBeacons.github.io/iDev/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://iBeacons.github.io/iDev/</id>
-  {% for post in site.categories.iDev %}
+  <id>http://iBeacons.github.io/idev/</id>
+  {% for post in site.categories.idev %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="http://iBeacons.github.io{{ post.url }}" />
