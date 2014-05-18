@@ -21,9 +21,10 @@ libraries:
     description: A support library for word identification.
 
   radiation:
-  name: radiation
+    name: radiation
     version: 0.1.0
     description: A support library for Social Sharing and data mining.
+
 
 
 
