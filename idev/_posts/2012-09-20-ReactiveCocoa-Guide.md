@@ -1,6 +1,5 @@
 ---
 layout: post_idev
-title:  自定义Xcode项目模板
+title: ReactiveCocoa指南
 author: Ethan
 ---
-

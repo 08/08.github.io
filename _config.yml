@@ -8,4 +8,22 @@ libraries:
   mood:
     name: mood
     version: 0.1.0
-    description: A support library for Emotional design.
+    description: A support library for emotional design.
+
+  wanderer:
+    name: wanderer
+    version: 0.1.0
+    description: wanderer provides support for the implementation of real-time analytics service. 
+
+  shoot:
+    name: shoot
+    version: 0.1.0
+    description: A support library for word identification.
+
+  radiation:
+  name: radiation
+    version: 0.1.0
+    description: A support library for Social Sharing and data mining.
+
+
+
