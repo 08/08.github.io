@@ -4,6 +4,11 @@ title:  流形与几何
 author: Ethan
 ---
 
-https://developer.apple.com/library/mac/documentation/graphicsimaging/reference/CGGeometry/Reference/reference.html
 
-http://nshipster.cn/cggeometry/
+https://www.goodreads.com/book/show/7692336-manifolds-and-differential-geometry
+
+https://www.goodreads.com/book/show/7408826-differential-geometry
+
+
+
+x
